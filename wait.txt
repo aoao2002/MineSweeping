@@ -1,0 +1,10 @@
+1 -1 -1 
+2 4 4 
+1 -1 -1 
+Clicked Clicked Clicked 
+Clicked Clicked Clicked 
+Clicked Clicked Clicked 
+4 0 4 
+User#2503 2 
+User#2503 -2 0 
+User#8540 -2 0 
